@@ -172,14 +172,14 @@ That's it — all outputs save to a `results/` folder automatically.
 
 **Shanmukha Sai Prakash Jeelakarra**
 - Department of Health Informatics, Rutgers School of Health Professions
-- Summer 2026 Research Intern — NeuREI Lab (Dr. Soha Saleh)
-- [LinkedIn](https://linkedin.com/in/your-profile) | [GitHub](https://github.com/your-username)
+- [LinkedIn](https://linkedin.com/in/shanmukhasaiprakash) | [GitHub](https://github.com/shanmukhasaiprakash)
 
 **Dhana Lakshmi Kakumanu**
 - Department of Health Informatics, Rutgers School of Health Professions
+- [LinkedIn](https://linkedin.com/in/dhanalakshmikakumanu) | [GitHub](https://github.com/dhanalakshmikakumanu)
 
 **Course:** BINF 7550 — Medical Image Processing and Visualization
-**Instructor:** Prof. Dinesh P. Mital, Ph.D.
+**Instructor:** Dr. Dinesh P. Mital
 **Institution:** Rutgers School of Health Professions, Newark NJ
 
 ---
