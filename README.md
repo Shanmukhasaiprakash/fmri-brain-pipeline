@@ -198,7 +198,7 @@ If you use this pipeline, please cite:
   author    = {Jeelakarra, Shanmukha Sai Prakash and Kakumanu, Dhana Lakshmi},
   year      = {2026},
   note      = {BINF 7550 course project, Rutgers School of Health Professions},
-  url       = {https://github.com/your-username/fmri-pipeline}
+  url       = {https://github.com/shanmukhasaiprakash/fmri-pipeline}
 }
 ```
 
