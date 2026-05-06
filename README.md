@@ -172,7 +172,10 @@ That's it — all outputs save to a `results/` folder automatically.
 
 **Shanmukha Sai Prakash Jeelakarra**
 - Department of Health Informatics, Rutgers School of Health Professions
-- [LinkedIn](https://linkedin.com/in/shanmukhasaiprakash) | [GitHub](https://github.com/shanmukhasaiprakash)
+- sj1398@shp.rutgers.edu  
+- [LinkedIn](https://linkedin.com/in/ShanmukhaSaiPrakashJeelakarra)
+- [GitHub](https://github.com/shanmukhasaiprakash)
+- [LinkedIn Post]([https://www.linkedin.com/posts/shanmukhasaiprakashjeelakarra_healthcare-langchain-langgraph-ugcPost-7456462108193591296-NfDM?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC2Ch1QB16q0_SQCUBXazxCZtG61IicXuco](https://www.linkedin.com/posts/shanmukhasaiprakashjeelakarra_fmri-medicalimaging-matlab-ugcPost-7457806832607109121-K451?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC2Ch1QB16q0_SQCUBXazxCZtG61IicXuco))
 
 **Dhana Lakshmi Kakumanu**
 - Department of Health Informatics, Rutgers School of Health Professions
